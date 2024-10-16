@@ -1,0 +1,37 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#light-theme{
+    background-color: white;
+}
+
+#dark-theme{
+    background-color: #11009E;
+}
+
+#open{
+    display: block;
+}
+
+#close{
+    display: none;
+}
+
+#open1{
+    display: block;
+}
+
+#close1{
+    display: none;
+}
+
+#open2{
+    display: block;
+}
+
+#close2{
+    display: none;
+}
+
